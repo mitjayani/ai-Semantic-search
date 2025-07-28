@@ -103,13 +103,3 @@ JINA_API_KEY=your_jina_api_key
 
 ---
 
-## Submission
-
-GitHub Repo: [https://github.com/your-username/bluehole-laravel-assessment](https://github.com/your-username/bluehole-laravel-assessment)
-
-```
-
----
-
-Let me know if you want me to create the `.md` file or convert this into a downloadable ZIP/project package.
-```
